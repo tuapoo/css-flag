@@ -1,0 +1,35 @@
+body{
+    margin: 10px 0px 0px 10ox;
+}
+.flag{
+    width: 900px;
+    height: 600px;
+    background-color:#CE1126;
+}
+.flag > p{
+    text-align: center;
+    font-size: 5em;
+    margin-top: 10px;
+    color: #fff;
+    margin-bottom: 0px;
+}
+.flag > div{
+    background-color: #002868;
+    height: 300px;
+    position: relative;
+    top: 58px;
+}
+.flag div div{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background-color: #fff;
+    position: relative;
+    left: 350px;
+    top: 50px;
+}
+.flag div div p{
+    margin-top: 0px;
+    font-size: 5em;
+    text-align: center;
+}
